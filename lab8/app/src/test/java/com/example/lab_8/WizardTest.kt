@@ -65,4 +65,4 @@ class WizardTest {
 
         assertEquals(4, evilWizard.mana) // mana still is 4
     }
-}git
+}
